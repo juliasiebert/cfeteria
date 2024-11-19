@@ -85,16 +85,7 @@
     }
     
     .paragrafo-contato, .paragrafo-proprietaria {
-    color: #C9C4B5;
+    color: #161513;
     }
     
-    /* Responsividade */
-    
-    @media (max-width: 768px) {
-    .container-intro {
-    flex-direction: column;
-    }
-    .paragrafo-intro, .imagem-intro {
-    width: 100%;
-    }
-    }
+   
